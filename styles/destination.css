@@ -1,6 +1,6 @@
 
-.navbar{
-    background-color: rgb(0, 0, 29);
+.navbar .navbar-nav{
+    background-color: rgb(83, 83, 83);
 }
 .background-image{
     position: relative;}

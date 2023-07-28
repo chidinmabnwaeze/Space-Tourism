@@ -1,6 +1,10 @@
-.navbar{
+.navbar .navbar-nav{
     background-color: rgb(83, 83, 83);
   background-size: cover; 
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between!important;
+  align-items: flex-end;
   }
   .background-image{
       position: relative;
@@ -27,6 +31,12 @@ span{
     position: absolute;
     top: 10rem;
 }
-.flight-engr{
+.img-fluid{
     width: 500px;
+}
+.nav-item-container{
+    display: flex;
+    flex-direction: row;
+    
+    align-items: end;
 }
