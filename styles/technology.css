@@ -16,9 +16,23 @@ header{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    padding-top: 1.5rem;
 }
-.right-section{
-display: flex;
-justify-content: space-around;
+.navbar{
+    background-color: grey;
+    padding: 1rem;
+    opacity: 0.6;
+
+}
+.nav-item{
+    text-decoration: none;
+    display: inline;
+ 
+}
+.nav-link{
+    color: white;
+    text-decoration: none;
+padding-top: 2rem;
+margin-right: 3rem;
 
 }
