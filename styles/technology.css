@@ -1,3 +1,8 @@
+*{
+    margin: none;
+    box-sizing: border-box;
+}
+
 .background-img{
     background-size:cover ;
     position: relative;
