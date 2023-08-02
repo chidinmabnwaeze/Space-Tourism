@@ -36,8 +36,13 @@ header{
 padding-top: 2rem;
 margin-right: 3rem;
 }
+.space-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
 span{
     color: rgb(114, 114, 114);
+    margin: 1rem;
 }
 .title{
     position: absolute;
@@ -88,6 +93,7 @@ span{
 .terminology{
     margin-bottom: 0;
     margin-top: 3rem;
+    color: rgb(196, 196, 196);
 }
 .image{
     position: absolute;
